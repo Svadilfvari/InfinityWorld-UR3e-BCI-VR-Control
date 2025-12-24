@@ -10,6 +10,18 @@ This repository contains a **BCI/IMU → Unity VR** testbed (**InfinityWorld**) 
 > ⚠️ This repo focuses on the **Unity simulation + communication + IK**.  
 > If you later want to drive a *real* UR3e, add a robot-side interface (URScript/RTDE) that consumes the same joint targets.
 
+---
+
+## Demos
+
+### 1) Head orientation estimation → gripper/wrist rotation
+![Head orientation estimation](media/gif-head-orientation.gif)
+
+### 2) InfinityWorld VR environment presentation
+![InfinityWorld VR environment](media/gif-infinityworld.gif)
+
+---
+## Pipeline
 ![Pipeline](media/pipeline.png)
 
 ---
