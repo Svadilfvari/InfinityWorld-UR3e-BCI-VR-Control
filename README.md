@@ -1,6 +1,6 @@
-# BCI + VR UR3e Grip Control (Unity + BrainAccess)
+# InfinityWorld-UR3e-BCI-VR-Control
 
-This repository contains a **BCI/IMU → Unity VR** testbed where a user can control a **UR3e** robotic arm end-effector
+This repository contains a **BCI/IMU → Unity VR** testbed (**InfinityWorld**) where a user can control a **UR3e** robotic arm end-effector
 (gripper orientation + simple directional motion) inside a Unity VR environment (“InfinityWorld”) using:
 
 - **Head motion** (accelerometer from a BrainAccess headset) for continuous gripper rotation / head orientation.
