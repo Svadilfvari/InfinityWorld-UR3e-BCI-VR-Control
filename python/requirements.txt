@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+pyqt5
+pygame
+keyboard
+torch
+scikit-learn
+brainaccess
