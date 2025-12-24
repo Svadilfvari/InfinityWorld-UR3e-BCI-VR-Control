@@ -83,13 +83,6 @@ You will likely want to:
 
 ---
 
-## Add your demo GIF
-Place it at `media/demo.gif` and it will show here:
-
-![Demo](media/demo.gif)
-
----
-
 ## Hardware
 
 - Robot: **UR3e** (simulated in Unity)
