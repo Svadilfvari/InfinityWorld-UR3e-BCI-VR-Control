@@ -15,10 +15,10 @@ This repository contains a **BCI/IMU → Unity VR** testbed (**InfinityWorld**) 
 ## Demos
 
 ### 1) Head orientation estimation → wrist/gripper rotation
-![Head orientation estimation](media/head_orientation_estimation.gif)
+![Head orientation estimation](media/gif-head-orientation.gif)
 
 ### 2) InfinityWorld VR environment presentation
-![InfinityWorld VR environment](media/infinityworld_vr_environment.gif)
+![InfinityWorld VR environment](media/gif-infinityworld.gif)
 
 ### 3) IK angle computation concept (θ0..θ5)
 ![IK angle computation concept](media/ik_angle_computation.gif)
